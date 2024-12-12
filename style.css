@@ -3,7 +3,7 @@ margin: 0%;
 font-family: 'Roboto', sans-serif;
 }
 .Header{/*стиль для кл header*/
-    background-image: url(../Изображения/043f7f4ca4e82e6e2d62d571aaf5c615.jpg);
+    background-image: Изображения/043f7f4ca4e82e6e2d62d571aaf5c615.jpg
 background-size: cover;
 color: white;
 background-color: black;
