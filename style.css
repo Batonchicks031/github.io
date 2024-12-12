@@ -1,15 +1,13 @@
 body {
     margin: 0%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Arial', sans-serif;
 }
-
 .header { /* Стиль для класса header */
-    background-image: url("../images/043f7f4ca4e82e6e2d62d571aaf5c615.jpg");
+    background-image: url("../Изображения/043f7f4ca4e82e6e2d62d571aaf5c615.jpg);
     background-size: cover;
     color: white;
     background-color: black;
 }
-
 .name {
     text-transform: uppercase;
 }
