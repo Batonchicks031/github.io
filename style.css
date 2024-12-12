@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
 }
 .header { /* Стиль для класса header */
-    background-image: url("../Изображения/043f7f4ca4e82e6e2d62d571aaf5c615.jpg);
+    background-image: url("../Изображения/043f7f4ca4e82e6e2d62d571aaf5c615.jpg");
     background-size: cover;
     color: white;
     background-color: black;
@@ -13,13 +13,13 @@ body {
 }
 
 .main-menu {
-    font-size: 35px;
+    font-size: 40px;
     font-weight: bold;
     padding: 20px 0;
 }
 
 .main-menu a { /* Применение для всех ссылок внутри класса main-menu */
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
