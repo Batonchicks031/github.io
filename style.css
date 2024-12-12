@@ -5,7 +5,7 @@ body {
 .header { /* Стиль для класса header */
     background-image: url("../Изображения/043f7f4ca4e82e6e2d62d571aaf5c615.jpg");
     background-size: cover;
-    color:red
+    color:red;
     background-color:black;
 }
 .name {
