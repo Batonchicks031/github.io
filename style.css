@@ -5,7 +5,7 @@ font-family: 'Arial', sans-serif;
 .Header{/*стиль для кл header*/
     background-image: url(../.Изображения/background.jpg);
 background-size: cover;
-color: njne;
+color: none;
 background-color: black;
 }
 .name {
@@ -27,7 +27,7 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: violet;
+    color: red;
     font-weight: bold;
     border: 2px solid mediumslateblue;
     padding: 10px;
