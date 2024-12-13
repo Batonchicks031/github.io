@@ -3,7 +3,7 @@ margin: 0%;
 font-family: 'Arial', sans-serif;
 }
 .Header{/*стиль для кл header*/
- background: url('Изображения/background.jpg');
+ background-image: url("Изображения/background.jpg");
 background-size: cover;
 color: red;
 background-color: black;
