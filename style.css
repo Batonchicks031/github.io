@@ -8,6 +8,13 @@ background-size: cover;
 color: red;
 background-color: none
 }
+<style>
+  body {
+    background-image: url('Изображения/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
 .name {
 text-transform: uppercase;
 }
