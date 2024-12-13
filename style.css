@@ -6,7 +6,7 @@ font-family: 'Roboto', sans-serif;
     background-image: url(../.Изображения/background.jpg);
 background-size: cover;
 color: red;
-background-color: black;
+background-color: url(../.Изображения/background.jpg);
 }
 .name {
 text-transform: uppercase;
@@ -29,8 +29,8 @@ transition: 0.5s;
     text-decoration: none;
     color: red;
     font-weight: bold;
-    border: 2px solid mediumslateblue;
-    padding: 10px;
+    border: 2px solid orange;
+    padding: 15px;
     border-radius: 5px;
     
 }
