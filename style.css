@@ -1,21 +1,36 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой сайт</title>
-    <!-- Подключение файла стилей -->
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <!-- Здесь будет ваше содержимое страницы -->
+body{
+margin: 0%; 
+font-family: 'Arial', sans-serif;
+}
+.Header{/*стиль для кл header*/
+    background-image: url(../.Изображения/background.jpg);
+background-size: cover;
+color: njne;
+background-color: black;
+}
+.name {
+text-transform: uppercase;
+}
+.main-menu{
+    font-size: 45px;
+font-weight: bold;
+padding: 20px 0;
+}
+.main-menu a{/*применение для всех а, входящих в класс main-menu*/
+color: azure;
+text-decoration: none;
+}
+
+.main-menu a:hover{
+color: mediumpurple;
+transition: 0.5s;
+}
+.btn{
+    text-decoration: none;
+    color: violet;
+    font-weight: bold;
+    border: 2px solid mediumslateblue;
+    padding: 10px;
+    border-radius: 5px;
     
-    <div class="header">Заголовок</div>
-    <nav class="main-menu">
-        <a href="#">Главная</a>
-        <a href="#">О нас</a>
-        <a href="#">Контакты</a>
-    </nav>
-    <button class="btn">Кнопка</button>
-</body>
-</html>
+}
