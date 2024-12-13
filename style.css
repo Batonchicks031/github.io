@@ -6,15 +6,8 @@ font-family: 'Roboto', sans-serif;
 background-image: url ("Изображения/background.jpg")
 background-size: cover;
 color: red;
-background-color: none
+background-color: black
 }
-<style>
-  body {
-    background-image: url('Изображения/background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-</style>
 .name {
 text-transform: uppercase;
 }
