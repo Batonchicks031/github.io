@@ -30,6 +30,6 @@ transition: 0.5s;
     color: red;
     font-weight: bold;
     border: 2px solid orange;
-    padding: 20px;
-    border-radius: 5px;    
+    padding: 9px;
+    border-radius: 4px;    
 }
