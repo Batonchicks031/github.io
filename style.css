@@ -17,7 +17,7 @@ font-weight: bold;
 padding: 20px 0;
 }
 .main-menu a{/*применение для всех а, входящих в класс main-menu*/
-color: azure;
+color: white;
 text-decoration: none;
 }
 
@@ -27,7 +27,7 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: violet;
+    color: red;
     font-weight: bold;
     border: 2px solid mediumslateblue;
     padding: 10px;
