@@ -5,7 +5,7 @@ font-family: 'Arial', sans-serif;
 .Header{/*стиль для кл header*/
     background-image: url(../.Изображения/background.jpg);
 background-size: cover;
-color: black;
+color: red;
 background-color: black;
 }
 .name {
