@@ -6,7 +6,7 @@ font-family: 'Arial', sans-serif;
     background-image: url(../.Изображения/background.jpg);
 background-size: cover;
 color: none;
-background-color: none;
+background-color: black;
 }
 .name {
 text-transform: uppercase;
@@ -22,7 +22,7 @@ text-decoration: none;
 }
 
 .main-menu a:hover{
-color: mediumpurple;
+color: white;
 transition: 0.5s;
 }
 .btn{
