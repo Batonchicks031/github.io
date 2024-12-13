@@ -1,18 +1,18 @@
 body{
 margin: 0%; 
-font-family: 'Arial', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .Header{/*стиль для кл header*/
-    background-image: url(../.Изображения/background.jpg);
+    background-image: url(../.images/background.jpg);
 background-size: cover;
-color: none;
-background-color: black;
+color: azure;
+background-color: blueviolet;
 }
 .name {
 text-transform: uppercase;
 }
 .main-menu{
-    font-size: 45px;
+    font-size: 20px;
 font-weight: bold;
 padding: 20px 0;
 }
@@ -27,7 +27,7 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: red;
+    color: violet;
     font-weight: bold;
     border: 2px solid mediumslateblue;
     padding: 10px;
