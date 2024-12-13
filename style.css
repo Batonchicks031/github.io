@@ -1,12 +1,12 @@
 body{
 margin: 0%; 
-font-family: 'Roboto', sans-serif;
+font-family: 'Arial', sans-serif;
 }
 .Header{/*стиль для кл header*/
-    background-image: url(../.images/background.jpg);
+    background-image: url(../.Изображения/background.jpg);
 background-size: cover;
-color: azure;
-background-color: blueviolet;
+color: black;
+background-color: red;
 }
 .name {
 text-transform: uppercase;
@@ -27,7 +27,7 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: violet;
+    color: white;
     font-weight: bold;
     border: 2px solid mediumslateblue;
     padding: 10px;
