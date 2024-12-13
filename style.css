@@ -3,7 +3,7 @@ margin: 0%;
 font-family: 'Roboto', sans-serif;
 }
 .Header{/*стиль для кл header*/
- background-image: url("../.Изображения/background.jpg");
+ background-image: url"../.Изображения/background.jpg";
 background-size: cover;
 color: red;
 background-color: black;
@@ -22,7 +22,7 @@ text-decoration: none;
 }
 
 .main-menu a:hover{
-color: mediumpurple;
+color: orange;
 transition: 0.5s;
 }
 .btn{
@@ -30,6 +30,6 @@ transition: 0.5s;
     color: red;
     font-weight: bold;
     border: 2px solid orange;
-    padding: 7px;
+    padding: 20px;
     border-radius: 5px;    
 }
