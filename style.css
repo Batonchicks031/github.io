@@ -1,8 +1,7 @@
 body{
 margin: 0;}
 .open-sans-light{
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
+  font-family: "Open Sans", serif;
   font-weight: 300;
   font-style: normal;
 }
