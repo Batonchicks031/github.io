@@ -1,10 +1,10 @@
 body{
-margin: 0;}
-.jost-light{
-  font-family: "Jost", sans-serif;
-  font-optical-sizing: auto;
+margin: 0;
+.montserrat-alternates-light 
+  font-family: "Montserrat Alternates", sans-serif;
   font-weight: 300;
   font-style: normal;
+}
 }
 .Header{/*стиль для кл header*/
  background-image: url("Изображения/background.jpg");
