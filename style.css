@@ -1,10 +1,11 @@
 body{
-margin: 0%;}
+margin: 0;}
 .comfortaa-light{
   font-family: "Comfortaa", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
-  font-style: normal;}
+  font-style: normal;
+}
 
 .Header{/*стиль для кл header*/
  background-image: url("Изображения/background.jpg");
