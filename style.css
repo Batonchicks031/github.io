@@ -1,7 +1,11 @@
 body{
-margin: 0%; 
-font-family: 'Arial', sans-serif;
-}
+margin: 0%;}
+.comfortaa-<uniquifier> {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+
 .Header{/*стиль для кл header*/
  background-image: url("Изображения/background.jpg");
 background-size: cover;
