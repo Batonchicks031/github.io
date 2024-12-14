@@ -1,8 +1,8 @@
 body{
 margin: 0;}
-.open-sans-light{
+.open-sans-regular{
   font-family: "Open Sans", serif;
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
 }
 .Header{/*стиль для кл header*/
