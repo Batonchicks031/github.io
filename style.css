@@ -1,6 +1,10 @@
 body{
 margin: 0;}
-.font-family: 'Roboto', sans-serif;
+.jost-light{
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
 .Header{/*стиль для кл header*/
  background-image: url("Изображения/background.jpg");
